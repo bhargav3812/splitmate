@@ -5,3 +5,8 @@ h2 {
 p {
   background-color: rgb(145, 158, 129);
 }
+p {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-style: oblique;
+}
